@@ -3,7 +3,14 @@ file1's content
 feature 1
 xxxxxxxxx
 
+Contents added by others
+xxxx
+xxxx
 
+
+contents added by lzy-dev
+line1
+line2
 
 feature 2
 xxxxxxxxx
@@ -11,3 +18,5 @@ xxxxxxxxx
 
 feature 3
 xxxxxxxxx
+
+xxxx
